@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[!['s github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/qkqwof/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkqwof)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 qkqwof/qkqwof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
